@@ -1,0 +1,3 @@
+rpclog:2:error:  semicolon missing after struct declaration
+rpclog:4:error: Segmentation fault
+rpclog:6:error: some other error occurred

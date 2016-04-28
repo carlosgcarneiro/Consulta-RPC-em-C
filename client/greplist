@@ -1,0 +1,25 @@
+usuario-OptiPlex-780rpclog:2:error:  semicolon missing after struct declaration
+usuario-OptiPlex-780rpclog:4:error: Segmentation fault
+usuario-OptiPlex-780rpclog:6:error: some other error occurred
+usuario-OptiPlex-780rpclog
+
+piim-102rpclog:2:error:  semicolon missing after struct declaration
+piim-102rpclog:4:error: Segmentation fault
+piim-102rpclog:6:error: aaaaaaaaaaaaaaaaaaaaaaaaaa    100000002222    some other error occurred
+piim-102rpclog
+
+piim-103rpclog:2:error:  semicolon missing after struct declaration
+piim-103rpclog:4:error: Segmentation fault
+piim-103rpclog:6:error: some other error occurred
+piim-103rpclog
+
+piim-104rpclog:2:error:  semicolon missing after struct declaration
+piim-104rpclog:4:error: Segmentation fault
+piim-104rpclog:6:error: some other error occurred
+piim-104rpclog
+
+piim-105rpclog:2:error:  semicolon missing after struct declaration
+piim-105rpclog:4:error: Segmentation fault
+piim-105rpclog:6:error: some other error occurred
+piim-105rpclog
+

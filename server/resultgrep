@@ -1,0 +1,4 @@
+laplacerpclog:error:  semicolon missing after struct declaration
+laplacerpclog:error: Segmentation fault
+laplacerpclog:error: some other error occurred
+laplacerpclog

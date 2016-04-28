@@ -1,0 +1,7 @@
+warning: assignment makes integer from pointer without a cast
+error:  semicolon missing after struct declaration
+warning: passing argument 1 of ‘fclose’ makes pointer from integer without a cas
+error: Segmentation fault
+warning: expected ‘FILE * {aka struct _IO_FILE *}’ but argument is of ty    pe ‘int’
+error: some other error occurred
+
